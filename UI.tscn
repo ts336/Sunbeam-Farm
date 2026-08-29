@@ -1,0 +1,16 @@
+[gd_scene format=3 uid="uid://tn503byggsm7"]
+
+[sub_resource type="SystemFont" id="SystemFont_yaehf"]
+font_names = PackedStringArray("Perfect DOS VGA 437")
+
+[sub_resource type="LabelSettings" id="LabelSettings_vivmo"]
+font = SubResource("SystemFont_yaehf")
+font_size = 100
+
+[node name="Ui" type="CanvasLayer" unique_id=1636986352]
+
+[node name="WheatLabel" type="Label" parent="." unique_id=761382045]
+offset_right = 40.0
+offset_bottom = 23.0
+text = "Wheat: 0/10"
+label_settings = SubResource("LabelSettings_vivmo")
