@@ -6,13 +6,13 @@ extends Node2D
 @onready var camera_2d: Camera2D = $"../Player/Camera2D"
 
 signal wheat_count_changed(new_amount: int)
-const GROWTH_TIME := 1.0
+const GROWTH_TIME := 5.0
 
 # Define your target teleport coordinates (adjust to your preferred location)
 const TELEPORT_LOCATION := Vector2(1100.0, 10.0)
 const TARGET_WHEAT := 10
 
-const TARGET_ZOOM := Vector2(20.0, 20.0)
+const TARGET_ZOOM := Vector2(8.0, 8.0)
 
 enum CropStage {
  SEED,
