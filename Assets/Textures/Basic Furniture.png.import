@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bo5de375tjisr"
-path="res://.godot/imported/wheat_full.png-126da924199f1e4fdea22f1c42e1d8a8.ctex"
+uid="uid://ce7vqpnleov5b"
+path="res://.godot/imported/Basic Furniture.png-724c8ff682e42bc340ebf92f4655a52c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://wheat_full.png"
-dest_files=["res://.godot/imported/wheat_full.png-126da924199f1e4fdea22f1c42e1d8a8.ctex"]
+source_file="res://Assets/Textures/Basic Furniture.png"
+dest_files=["res://.godot/imported/Basic Furniture.png-724c8ff682e42bc340ebf92f4655a52c.ctex"]
 
 [params]
 

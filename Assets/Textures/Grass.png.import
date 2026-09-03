@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cvuftihbn7ki5"
-path="res://.godot/imported/Basic Charakter Actions.png-aedcc914e012837c7d6cfa11fb1dd882.ctex"
+uid="uid://c1iayoyka2a5s"
+path="res://.godot/imported/Grass.png-43b668cc164f5b4fc3e381ffdf2ef734.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Basic Charakter Actions.png"
-dest_files=["res://.godot/imported/Basic Charakter Actions.png-aedcc914e012837c7d6cfa11fb1dd882.ctex"]
+source_file="res://Assets/Textures/Grass.png"
+dest_files=["res://.godot/imported/Grass.png-43b668cc164f5b4fc3e381ffdf2ef734.ctex"]
 
 [params]
 

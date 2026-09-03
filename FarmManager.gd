@@ -91,13 +91,13 @@ func update_wheat(cell: Vector2i) -> void:
 
 	match crop["stage"]:
 		CropStage.SEED:
-			texture = preload("res://wheat_seed.png")
+			texture = preload("res://Assets/Sprites/wheat_seed.png")
 		CropStage.SPROUT:
-			texture = preload("res://wheat_sprout.png")
+			texture = preload("res://Assets/Sprites/wheat_sprout.png")
 		CropStage.EARLY:
-			texture = preload("res://wheat_early.png")
+			texture = preload("res://Assets/Sprites/wheat_early.png")
 		CropStage.FULL:
-			texture = preload("res://wheat_full.png")
+			texture = preload("res://Assets/Sprites/wheat_full.png")
 
 	sprite.texture = texture
 

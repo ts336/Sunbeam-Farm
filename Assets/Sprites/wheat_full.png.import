@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cjlehqahta1y0"
-path="res://.godot/imported/Wooden_House_Walls_Tilset.png-727d94855e6a92ec4f1bba8744ad5af4.ctex"
+uid="uid://bo5de375tjisr"
+path="res://.godot/imported/wheat_full.png-25995d4cdc540bea65d19f5f2f62838b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Wooden_House_Walls_Tilset.png"
-dest_files=["res://.godot/imported/Wooden_House_Walls_Tilset.png-727d94855e6a92ec4f1bba8744ad5af4.ctex"]
+source_file="res://Assets/Sprites/wheat_full.png"
+dest_files=["res://.godot/imported/wheat_full.png-25995d4cdc540bea65d19f5f2f62838b.ctex"]
 
 [params]
 

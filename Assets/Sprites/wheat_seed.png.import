@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dw60bcdcqx2sd"
-path="res://.godot/imported/Tilled_Dirt_Wide.png-ce9423386e56c6292d4c482697fc80e7.ctex"
+uid="uid://c23eg6utpo43p"
+path="res://.godot/imported/wheat_seed.png-c4b3c45b296536fc1d92ac4921490bd2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Tilled_Dirt_Wide.png"
-dest_files=["res://.godot/imported/Tilled_Dirt_Wide.png-ce9423386e56c6292d4c482697fc80e7.ctex"]
+source_file="res://Assets/Sprites/wheat_seed.png"
+dest_files=["res://.godot/imported/wheat_seed.png-c4b3c45b296536fc1d92ac4921490bd2.ctex"]
 
 [params]
 

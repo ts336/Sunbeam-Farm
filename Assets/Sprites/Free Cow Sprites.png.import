@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ce7vqpnleov5b"
-path="res://.godot/imported/Basic Furniture.png-126de15aaa859bd49d53b1d549e48f7e.ctex"
+uid="uid://cu7iw10y26x2n"
+path="res://.godot/imported/Free Cow Sprites.png-27d81d40c1da517f961aa60b35df47aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Basic Furniture.png"
-dest_files=["res://.godot/imported/Basic Furniture.png-126de15aaa859bd49d53b1d549e48f7e.ctex"]
+source_file="res://Assets/Sprites/Free Cow Sprites.png"
+dest_files=["res://.godot/imported/Free Cow Sprites.png-27d81d40c1da517f961aa60b35df47aa.ctex"]
 
 [params]
 

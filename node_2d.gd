@@ -1,8 +1,8 @@
 extends Node2D
 
-@onready var animated_sprite_2d1 = $AnimatedSprite2D2
-@onready var animated_sprite_2d2 = $AnimatedSprite2D3
-@onready var animated_sprite_2d3 = $AnimatedSprite2D4
+@onready var animated_sprite_2d1 = $Cow1
+@onready var animated_sprite_2d2 = $Cow2
+@onready var animated_sprite_2d3 = $Cow3
 
 # Called when the node enters the scene tree for the first time.
 func _ready():

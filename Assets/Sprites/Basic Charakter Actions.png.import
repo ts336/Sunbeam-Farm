@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d0f20pqx1mi3e"
-path="res://.godot/imported/Hills.png-65c688a786c2cba54d00253deaf3b7af.ctex"
+uid="uid://cvuftihbn7ki5"
+path="res://.godot/imported/Basic Charakter Actions.png-b919a0534b478aa29dd2f6842cd0ebcb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Hills.png"
-dest_files=["res://.godot/imported/Hills.png-65c688a786c2cba54d00253deaf3b7af.ctex"]
+source_file="res://Assets/Sprites/Basic Charakter Actions.png"
+dest_files=["res://.godot/imported/Basic Charakter Actions.png-b919a0534b478aa29dd2f6842cd0ebcb.ctex"]
 
 [params]
 

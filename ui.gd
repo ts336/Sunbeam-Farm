@@ -1,7 +1,7 @@
 extends CanvasLayer
 
 @onready var wheat_label: Label = $WheatLabel
-@onready var farm_manager = $"../FarmManager" # Adjust path to match your main scene tree
+@onready var farm_manager = $"../FarmManager"
 
 
 func _ready() -> void:
