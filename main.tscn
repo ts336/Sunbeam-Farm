@@ -884,7 +884,7 @@ animations = [{
 }]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_pp1vv"]
-size = Vector2(16, 18)
+size = Vector2(13, 12)
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_d13ii"]
 atlas = ExtResource("11_efxa6")
@@ -953,19 +953,18 @@ tile_set = SubResource("TileSet_lxvyy")
 [node name="Wheat" type="Node2D" parent="." unique_id=2000088900]
 
 [node name="Player" type="CharacterBody2D" parent="." unique_id=1946934741]
+position = Vector2(37, 36)
 script = ExtResource("1_h2yge")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="Player" unique_id=746353639]
-position = Vector2(36, 34)
+position = Vector2(0, 1)
 sprite_frames = SubResource("SpriteFrames_pp1vv")
 animation = &"Idle_right"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Player" unique_id=1219475828]
-position = Vector2(36, 34)
 shape = SubResource("RectangleShape2D_pp1vv")
 
 [node name="Camera2D" type="Camera2D" parent="Player" unique_id=1386256282]
-position = Vector2(36, 33)
 zoom = Vector2(5, 5)
 position_smoothing_enabled = true
 position_smoothing_speed = 6.0
